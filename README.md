@@ -65,6 +65,9 @@ Para su ejecución
  - Añadir Casino.
  - Muchos más cambios que se han ido olvidando.
 
+## Addons
+Existe una web desarrollada por nosotros mismos donde puedes ver las estadísticas de los jugadores, los juegos, los jugadores online, etc. [aquí](https://github.com/AthoneDevs/PA_Web)
+
 ## Licencias
 
 FEM fue desarrollado con la ayuda y uso de:
